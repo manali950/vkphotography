@@ -1,7 +1,7 @@
 {
   "name": "vkphoto",
   "version": "0.1.0",
-  "homepage": "https://manali950.github.io/vkphotography/",
+  "homepage": "https://manali950.github.io/vkphotography",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
