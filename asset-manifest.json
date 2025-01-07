@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/vkphotography/static/css/main.5e09808a.css",
-    "main.js": "/vkphotography/static/js/main.397fd342.js",
+    "main.css": "/vkphotography/static/css/main.98bc1684.css",
+    "main.js": "/vkphotography/static/js/main.bf1ab2c6.js",
     "static/js/453.e476ccdc.chunk.js": "/vkphotography/static/js/453.e476ccdc.chunk.js",
     "static/media/banner1.png": "/vkphotography/static/media/banner1.006f87ceeb61c1cec775.png",
     "static/media/price.jpg": "/vkphotography/static/media/price.a85f4c74a3bb9520b7c7.jpg",
     "index.html": "/vkphotography/index.html",
-    "main.5e09808a.css.map": "/vkphotography/static/css/main.5e09808a.css.map",
-    "main.397fd342.js.map": "/vkphotography/static/js/main.397fd342.js.map",
+    "main.98bc1684.css.map": "/vkphotography/static/css/main.98bc1684.css.map",
+    "main.bf1ab2c6.js.map": "/vkphotography/static/js/main.bf1ab2c6.js.map",
     "453.e476ccdc.chunk.js.map": "/vkphotography/static/js/453.e476ccdc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5e09808a.css",
-    "static/js/main.397fd342.js"
+    "static/css/main.98bc1684.css",
+    "static/js/main.bf1ab2c6.js"
   ]
 }
