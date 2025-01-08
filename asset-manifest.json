@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/vkphotography/static/css/main.98bc1684.css",
-    "main.js": "/vkphotography/static/js/main.dd9401d7.js",
+    "main.js": "/vkphotography/static/js/main.8744458a.js",
     "static/js/453.e476ccdc.chunk.js": "/vkphotography/static/js/453.e476ccdc.chunk.js",
     "static/media/banner1.png": "/vkphotography/static/media/banner1.006f87ceeb61c1cec775.png",
+    "static/media/g1.jpg": "/vkphotography/static/media/g1.387f017880b3e7027192.jpg",
     "static/media/price.jpg": "/vkphotography/static/media/price.a85f4c74a3bb9520b7c7.jpg",
     "index.html": "/vkphotography/index.html",
     "main.98bc1684.css.map": "/vkphotography/static/css/main.98bc1684.css.map",
-    "main.dd9401d7.js.map": "/vkphotography/static/js/main.dd9401d7.js.map",
+    "main.8744458a.js.map": "/vkphotography/static/js/main.8744458a.js.map",
     "453.e476ccdc.chunk.js.map": "/vkphotography/static/js/453.e476ccdc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.98bc1684.css",
-    "static/js/main.dd9401d7.js"
+    "static/js/main.8744458a.js"
   ]
 }
