@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/vkphotography/static/css/main.a5fc88c8.css",
-    "main.js": "/vkphotography/static/js/main.e6ae508f.js",
+    "main.css": "/vkphotography/static/css/main.eb664f6b.css",
+    "main.js": "/vkphotography/static/js/main.3bede8cd.js",
     "static/js/453.e476ccdc.chunk.js": "/vkphotography/static/js/453.e476ccdc.chunk.js",
     "static/media/banner1.png": "/vkphotography/static/media/banner1.006f87ceeb61c1cec775.png",
     "static/media/fa-brands-400.svg": "/vkphotography/static/media/fa-brands-400.a58f7f4cdcc622e4db52.svg",
@@ -25,12 +25,12 @@
     "static/media/fa-regular-400.woff": "/vkphotography/static/media/fa-regular-400.9532d08bbce0c72d8138.woff",
     "static/media/fa-regular-400.woff2": "/vkphotography/static/media/fa-regular-400.4e988e05601bf81ee2b0.woff2",
     "index.html": "/vkphotography/index.html",
-    "main.a5fc88c8.css.map": "/vkphotography/static/css/main.a5fc88c8.css.map",
-    "main.e6ae508f.js.map": "/vkphotography/static/js/main.e6ae508f.js.map",
+    "main.eb664f6b.css.map": "/vkphotography/static/css/main.eb664f6b.css.map",
+    "main.3bede8cd.js.map": "/vkphotography/static/js/main.3bede8cd.js.map",
     "453.e476ccdc.chunk.js.map": "/vkphotography/static/js/453.e476ccdc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5fc88c8.css",
-    "static/js/main.e6ae508f.js"
+    "static/css/main.eb664f6b.css",
+    "static/js/main.3bede8cd.js"
   ]
 }
